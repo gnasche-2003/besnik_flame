@@ -15,12 +15,11 @@ html {
 body {
     font-size: 1.6rem;
     font-family: "Poppins", sans-serif;
-    color: var(--text-color);
-    background: var(--body-bg);
 }
 
 a {
     color: inherit;
+    cursor: pointer;
     text-decoration: none;
 }
 
